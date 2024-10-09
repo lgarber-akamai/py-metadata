@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "linode_metadata"
+name = "lgarber_fork_linode_metadata"
 authors = [{ name = "Linode", email = "developers@linode.com" }]
 description = "A client to interact with the Linode Metadata service in Python."
 readme = "README.md"
